@@ -1,58 +1,72 @@
-# 👋 Hi, I'm **Shivshankar Kumar** (@shivshankar8ss)  
+<h1 align="center">Hi 👋, I'm Shivshankar Kumar</h1>
+<h3 align="center">Backend Developer | Software Engineer</h3>
 
-💡 **Innovator | AI & Automation Enthusiast | Software Developer**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivshankar-kumar-72811b247/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shivshankar8ss">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:shivshankar.2201193me@iiitbh.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+📧 <b>Email:</b> shivshankar.2201193me@iiitbh.ac.in
+</p>
 
 ---
 
-## 🚀 About Me  
+## 👨‍🎓 About Me  
 
-🎓 **Undergraduate Student** at **IIIT Bhagalpur**, pursuing **Mechatronics and Automation Engineering**  
-💻 Passionate about **Artificial Intelligence, Machine Learning, Embedded Systems, and Full-Stack Development**  
-🔍 Always exploring new **technologies, frameworks, and real-world problem-solving through AI & automation**  
+🎓 **B.Tech – Mechatronics & Automation Engineering**  
+🏫 **IIIT Bhagalpur**  
+💻 Focused on **Backend Development, REST APIs, and System Design**  
+⚙️ Interested in building **scalable, secure, and maintainable backend systems**
+
+I enjoy designing **clean APIs**, handling **data at scale**, and writing backend code that is **easy to maintain and extend**.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧑‍💻 Tech Stack  
 
-### **💡 Languages & Frameworks**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+### 🚀 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### **🖥️ Tools & Platforms**  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
+### 🖥️ Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning  
 
-🚀 **Backend Development** (Node.js, Express.js, MongoDB)  
-🎯 **YOLO for Object Detection**  
-📈 **Deep Learning & Model Optimization**  
+- 🔐 Backend Architecture & Security (JWT, RBAC)
+- 🗄️ Database Design & Query Optimization
+- 📐 System Design fundamentals
+- ☁️ Deployment & Environment Management
 
 ---
 
-## 💡 Looking to Collaborate On  
+## 🤝 Open to Opportunities  
 
-✅ **AI/ML Projects** (Computer Vision, NLP, Predictive Analytics)  
-✅ **Web Development** (MERN Stack, REST APIs)  
-✅ **Embedded Systems & IoT**  
+✅ Backend Intern / SDE Intern  
+✅ Node.js / API Development Roles  
 
----
-
-## 📫 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivshankar-kumar-72811b247/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shivshankar8ss)  
-📧 **Email:** [shivshankar.2201193me@iiitbh.ac.in]  
+📩 Actively looking for **internships and entry-level backend roles**
 
 ---
 
-## ⚡ Fun Fact  
+## ⚡ Philosophy  
 
-🚀 **I love solving real-world problems through AI, automation, and software development!**  
-
+> **Good backend systems are invisible, reliable, and scalable.**
