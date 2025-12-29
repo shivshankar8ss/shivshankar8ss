@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-📧 <b>Email:</b> shivshankar.2201193me@iiitbh.ac.in
+📧 <b>Email:</b> shivshankar8w@gmail.com
 </p>
 
 ---
